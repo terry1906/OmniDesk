@@ -32,5 +32,5 @@ OmniDesk — это объединённое настольное приложе
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/OmniDesk.git
+   git clone https://github.com/terry1906/OmniDesk
    cd OmniDesk
